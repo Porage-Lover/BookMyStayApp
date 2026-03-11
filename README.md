@@ -1,2 +1,2 @@
 # BookMyStayApp
-STEP Assignment
+STEP Assignment 2
